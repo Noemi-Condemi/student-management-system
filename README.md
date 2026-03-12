@@ -19,8 +19,26 @@ A Python program to manage student information, scores, and reports. Simple, int
 
 ---
 
+## 🖼️ Screenshot
+
+![Main Menu](main_menu_student_management_system.png)
+
+---
+
 ## 💻 How to Run
 
-1. Clone the repository:  
+1. Clone this repository, go into the folder, and run the program:
+
 ```bash
 git clone https://github.com/Noemi-Condemi/student-management-system.git
+cd student-management-system
+python Student_Management_System.py
+```
+
+---
+
+## 📝 Notes
+
+- Make sure you have **Python 3.x** installed.  
+- The program uses a **JSON file** to store data, so you don’t need a database setup.  
+- Designed for learning and small-scale management—perfect for practice projects.
